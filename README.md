@@ -12,6 +12,6 @@
 
 The current version of "utf8_Stroke.txt" was adjust with the rule below:
 
-https://raw.githubusercontent.com/JaveCai/scm/master/image/adjust.png 
+![image](http://github.com/JaveCai/scm/raw/master/images/adjust.png 
 
 If you don't need these change, just edit it with "strokeCountEditer".
